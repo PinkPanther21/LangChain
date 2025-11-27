@@ -14,7 +14,6 @@ Environment variable setup
 Python 3.13 compatible examples
 
 All scripts are small, focused experiments — helpful for learning, debugging, and building more advanced pipelines later.
-
 📁 Project Structure
 LangChain/
 │
@@ -25,6 +24,7 @@ LangChain/
 ├── requirements.txt     # Dependencies
 ├── .env.example         # Example environment variables
 └── README.md            # This file
+
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repo
